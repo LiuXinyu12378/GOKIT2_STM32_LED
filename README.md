@@ -5,3 +5,10 @@
 ## 效果
 
 ![asdas]()
+
+
+
+
+### 查看我在机智云论坛写的帖子教程
+
+        http://club.gizwits.com/forum.php?mod=viewthread&tid=4142&page=1#pid35293
