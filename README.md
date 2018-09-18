@@ -21,4 +21,5 @@
 
 ### 查看我在机智云论坛写的帖子教程
 
-        http://club.gizwits.com/forum.php?mod=viewthread&tid=4142&page=1#pid35293
+        远程点亮LED:http://club.gizwits.com/forum.php?mod=viewthread&tid=4142&page=1#pid35293
+        远程控制pwm调速电机：http://club.gizwits.com/forum.php?mod=viewthread&tid=4249&page=1#pid33626
